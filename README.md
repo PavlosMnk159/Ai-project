@@ -4,3 +4,5 @@ using bleeding edge technology to combat sociatal issues that plague the world ð
 Paul: Continue being cool for now ðŸ˜Ž
 
 Kwnna: read a book or something
+
+Dependacies: pygame, pymunk
